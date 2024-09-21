@@ -1,2 +1,2 @@
 # odd-number-series.java
-c is used.
+java is used.
